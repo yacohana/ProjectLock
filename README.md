@@ -16,7 +16,7 @@ This is just an advisory lock, so you should use this with all agreement.
 よくある排他的ファイル操作を、シェルから簡単に出来るようにしたスクリプト。
 バイトのついでに作成したものを公開。プロジェクトで共用サーバー使うときなど。  
 詳細はUsage参照。ファイル呼ぶの面倒なのでaliasしよう。  
-始めてシェルスクリプト始めてだったので、色々ご勘弁。
+シェルスクリプト初めてだったので、色々ご勘弁。
 
 ## License
 
